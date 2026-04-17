@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/7a5235c7-9ad2-4db8-b691-282971b5925c" />
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/7a5235c7-9ad2-4db8-b691-282971b5925c" />
 ## 👋 ¡Hola, soy Alberto!
 
 ![LinkedIn Badge](https://img.shields.io/badge/-Alberto%20Ni%C3%B1o%20Mart%C3%ADnez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-ni%C3%B1o-mart%C3%ADnez-606a/a229)
